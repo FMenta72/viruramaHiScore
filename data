@@ -1,0 +1,6 @@
+{
+  "records": [
+    { "score": 10000, "name": "Pippo", "level": 3, "cycles": 1, "date": "2025-05-02", "comment": "ue" },
+    { "score": 5000, "name": "Ciccio", "level": 2, "cycles": 1, "date": "2025-05-04", "comment": "stop" }
+  ]
+}
